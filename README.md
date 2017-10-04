@@ -1,4 +1,5 @@
-#Night of Museum
+#NightofMuseum
+
 Night of Museum was created as a part of Udacity’s VR nanodegree program. We were  required to research on a VR company/technology, or an industry that could be impacted by VR. After conducting our research, we decided to create a mobile virtual reality app with 'information booths' which include both visual and audio feedback for users that present the impact of VR in the  Art and culture industry. Here is a brief review of the experience.
 
 ### Features
